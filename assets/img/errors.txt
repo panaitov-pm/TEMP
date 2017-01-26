@@ -1,0 +1,5 @@
+[Thu Jan 26 2017 00:37:24 GMT+0200 (Финляндия (зима))] layer "Lorem ipsum dolor sit amet cons...  Lorem ipsum dolor sit amet,": Expected end of input but "," found.
+[Thu Jan 26 2017 00:37:24 GMT+0200 (Финляндия (зима))] layer "Lorem ipsum dolor sit amet cons...  Lorem ipsum dolor sit amet,": Expected end of input but "," found.
+[Thu Jan 26 2017 00:37:24 GMT+0200 (Финляндия (зима))] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[Thu Jan 26 2017 00:37:24 GMT+0200 (Финляндия (зима))] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[Thu Jan 26 2017 00:37:24 GMT+0200 (Финляндия (зима))] layer "Lorem ipsum dolor sit amet cons...  Lorem ipsum dolor sit amet,": Expected end of input but "," found.
